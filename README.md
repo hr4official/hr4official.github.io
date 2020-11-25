@@ -1,4 +1,3 @@
 ### This is my portfolio page.
 
-```html
-```
+Testing Bootstrap and gitpages for learning purpose
